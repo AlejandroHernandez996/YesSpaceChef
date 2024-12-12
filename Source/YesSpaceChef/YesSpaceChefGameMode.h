@@ -13,6 +13,8 @@ class AYesSpaceChefGameMode : public AGameModeBase
 
 public:
 	AYesSpaceChefGameMode();
+
+	void RegisterExistingPlayers();
 };
 
 
